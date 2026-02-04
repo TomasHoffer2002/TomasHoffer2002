@@ -48,6 +48,7 @@ My Skills Include
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+</span>
 
 
 <h4> Other Tools and Technologies </h4>
@@ -58,61 +59,48 @@ My Skills Include
 
 </span>
 
-<br>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=7oSkaaa&theme=radical&no-frame=true&column=7" alt="Trofeos" />
-</p>
-
+<br><br>
 <h3 align="center">Mis Proyectos Destacados</h3>
+<br>
+<h3 align="center">Web: React + Next.js</h3>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <strong>Web (React + Next.js)</strong>
-    </td>
-    <td align="center" width="50%">
-      <strong>App Móvil (React Native + Expo)</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="./images/web1.png" width="100%" alt="Web Principal">
-      <br><br>
-      
-      <details>
-        <summary><strong>📸 Ver galería completa (8 más)</strong></summary>
-        <br>
-        <img src="./images/web2.png" width="48%"> <img src="./images/web3.png" width="48%">
-        <br><br>
-        <img src="./images/web4.png" width="48%"> <img src="./images/web5.png" width="48%">
-        <br><br>
-        <img src="./images/web6.png" width="48%"> <img src="./images/web7.png" width="48%">
-        <br><br>
-        <img src="./images/web8.png" width="48%"> <img src="./images/web9.png" width="48%">
-      </details>
-      
-      <br>
-      <a href="https://github.com/TomasHoffer2002/proyectoMuseo">🔗 Ver Repositorio</a>
-    </td>
+<div align="center">
+  <img src="./images/web1.png" width="100%" alt="Web Principal">
+  <br><br>
 
-    <td align="center" valign="top">
-      <img src="./images/app1.jpeg" width="45%" alt="App Principal">
-      <br><br>
-      
-      <details>
-        <summary><strong>📱 Ver más pantallas (7 más)</strong></summary>
-        <br>
-        <img src="./images/app2.jpeg" width="45%"> <img src="./images/app3.jpeg" width="45%">
-        <br><br>
-        <img src="./images/app4.jpeg" width="45%"> <img src="./images/app5.jpeg" width="45%">
-        <br><br>
-        <img src="./images/app6.jpeg" width="45%"> <img src="./images/app7.jpeg" width="45%">
-        <br><br>
-        <img src="./images/app8.jpeg" width="45%">
-      </details>
-      
-      <br>
-      <a href="https://github.com/TomasHoffer2002/proyectoMuseoAPP">🔗 Ver Repositorio</a>
-    </td>
-  </tr>
-</table>
+  <details>
+    <summary><strong>📸 Ver galería completa Web (8 más)</strong></summary>
+    <br>
+    <img src="./images/web2.png" width="100%"><br><br>
+    <img src="./images/web3.png" width="100%"><br><br>
+    <img src="./images/web4.png" width="100%"><br><br>
+    <img src="./images/web5.png" width="100%"><br><br>
+    <img src="./images/web6.png" width="100%"><br><br>
+    <img src="./images/web7.png" width="100%"><br><br>
+    <img src="./images/web8.png" width="100%"><br><br>
+    <img src="./images/web9.png" width="100%">
+  </details>
+
+  <br>
+  <a href="https://github.com/TomasHoffer2002/proyectoMuseo">🔗 Ver Repositorio Web</a>
+</div>
+
+<br><hr><br> <h3 align="center">App Móvil: React Native + Expo</h3>
+
+<div align="center">
+  <img src="./images/app1.jpeg" width="300" alt="App Principal">
+  <br><br>
+
+  <details>
+    <summary><strong>📱 Ver más pantallas App (7 más)</strong></summary>
+    <br>
+    <img src="./images/app2.jpeg" width="30%"> <img src="./images/app3.jpeg" width="30%"> <img src="./images/app4.jpeg" width="30%">
+    <br><br>
+    <img src="./images/app5.jpeg" width="30%"> <img src="./images/app6.jpeg" width="30%"> <img src="./images/app8.jpeg" width="30%">
+    <br><br>
+    <img src="./images/app7.jpeg" width="30%">
+  </details>
+
+  <br>
+  <a href="https://github.com/TomasHoffer2002/proyectoMuseoAPP">🔗 Ver Repositorio App</a>
+</div>
