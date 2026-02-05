@@ -61,6 +61,9 @@ My Skills Include
 
 <br><br>
 <h3 align="center">Mis Proyectos Destacados</h3>
+<p align="center">
+  Desarrollé junto a un colega este ecosistema digital para un Museo de Ciencias Naturales, integrando una web (React + Next.js) y una app móvil (React Native + Expo) que consumen una misma API REST en PHP y base de datos en MySQL. Este proyecto consolidó mis habilidades en arquitectura Full Stack, enseñándome a diseñar soluciones multiplataforma con datos centralizados y a trabajar colaborativamente.
+</p>
 <br>
 <h3 align="center">Web: React + Next.js</h3>
 
@@ -104,3 +107,5 @@ My Skills Include
   <br>
   <a href="https://github.com/TomasHoffer2002/proyectoMuseoAPP">🔗 Ver Repositorio App</a>
 </div>
+
+<a href="https://github.com/TomasHoffer2002/apiLogin">🔗 Ver Repositorio de la API</a>
