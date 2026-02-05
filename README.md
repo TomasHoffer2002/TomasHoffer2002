@@ -8,7 +8,7 @@
 <br><br>
 
 - :school: I am a junior at [Facultad de Ingeniería](https://www.ing.unlpam.edu.ar/) at [Universidad Nacional de La Pampa](https://www.unlpam.edu.ar/)
-- :technologist: I’m currently learning ...
+- :technologist: I recently learned ...
     - JavaScript
     - React
     - React Native
@@ -111,4 +111,9 @@ My Skills Include
 <br><hr><br> <h3 align="center">API REST con PHP</h3>
 <div align="center">
 <a href="https://github.com/TomasHoffer2002/apiLogin">🔗 Ver Repositorio de la API</a>
+</div>
+
+<br><hr><br> <h3 align="center">Diseño de interfaces de una billetera virtual</h3>
+<div align="center">
+<a href="https://www.figma.com/design/5FUIIdxAQF9EdpDoKzMfEP/Proyecto-Final---Grupo-06?node-id=0-1&t=pGxTF6ysIMT34Kfa-1">🔗 Ver Proyecto en Figma</a>
 </div>
