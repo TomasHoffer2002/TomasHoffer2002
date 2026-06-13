@@ -255,7 +255,3 @@
 <p align="center">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </p>
-
-<div align="center">
-  <a href="https://www.figma.com/design/5FUIIdxAQF9EdpDoKzMfEP/Proyecto-Final---Grupo-06?node-id=0-1&t=pGxTF6ysIMT34Kfa-1">🔗 Ver Proyecto en Figma</a>
-</div>
