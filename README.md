@@ -70,6 +70,43 @@
 <h2 align="center">💼 Proyectos Destacados</h2>
 
 ---
+<h3 align="center">💈 Sistema de Turnos para Barberías</h3>
+<p align="center">
+  Aplicación web completa para la gestión de turnos en barberías. El portal de clientes permite reservar turnos, consultar el estado de la cola en tiempo real, ver el orden de llegada y conocer el perfil de la barbería y sus barberos. El panel de administración incluye gestión de turnos (crear, aceptar, rechazar), catálogo de servicios con duración y precio, configuración de días y horarios de trabajo, bloqueos de horarios (ej: almuerzo), estadísticas y contacto directo con clientes por WhatsApp e Instagram.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</p>
+
+<div align="center">
+  <img src="./imagesBarberia/1.png" width="100%" alt="Barbería - pantalla principal">
+  <br><br>
+
+  <details>
+    <summary><strong>📸 Ver más pantallas</strong></summary>
+    <br>
+    <img src="./imagesBarberia/2.png" width="100%"><br><br>
+    <img src="./imagesBarberia/3.png" width="100%"><br><br>
+    <img src="./imagesBarberia/4.png" width="100%"><br><br>
+    <img src="./imagesBarberia/5.png" width="100%"><br><br>
+    <img src="./imagesBarberia/6.png" width="100%"><br><br>
+    <img src="./imagesBarberia/7.png" width="100%"><br><br>
+    <img src="./imagesBarberia/8.png" width="100%"><br><br>
+    <img src="./imagesBarberia/9.png" width="100%"><br><br>
+    <img src="./imagesBarberia/10.png" width="100%"><br><br>
+    <img src="./imagesBarberia/11.png" width="100%"><br><br>
+    <img src="./imagesBarberia/12.png" width="100%">
+  </details>
+
+  <br>
+  <a href="https://github.com/TomasHoffer2002/barberia-app">🔗 Ver Repositorio</a>
+</div>
+
+<br><hr><br>
 
 <h3 align="center">🏭 App de Gestión de Mantenimiento Industrial — Aisplac S.A.</h3>
 <p align="center">
